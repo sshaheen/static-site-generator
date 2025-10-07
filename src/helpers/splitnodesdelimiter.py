@@ -1,4 +1,4 @@
-from src.models.textnode import TextNode, TextType
+from ..models.textnode import TextNode, TextType
 
 
 def split_nodes_delimiter(old_nodes, delimiter, text_type):

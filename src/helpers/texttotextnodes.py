@@ -1,4 +1,4 @@
-from src.models.textnode import TextNode, TextType
+from ..models.textnode import TextNode, TextType
 from .splitnodesdelimiter import split_nodes_delimiter
 from .splitnodeslink import split_nodes_link
 from .splitnodesimage import split_nodes_image

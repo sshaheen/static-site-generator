@@ -1,4 +1,4 @@
-from src.models.enum_blocktype import BlockType
+from ..models.enum_blocktype import BlockType
 
 
 def block_to_block_type(md_block):

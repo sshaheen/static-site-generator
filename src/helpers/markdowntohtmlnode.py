@@ -2,9 +2,9 @@ from .textnodetohtmlnode import text_node_to_html_node
 from .texttotextnodes import text_to_text_nodes
 from .markdowntoblocks import markdown_to_blocks
 from .blocktoblocktype import block_to_block_type
-from src.models.parentnode import ParentNode
-from src.models.enum_blocktype import BlockType
-from src.models.textnode import TextNode, TextType
+from ..models.parentnode import ParentNode
+from ..models.enum_blocktype import BlockType
+from ..models.textnode import TextNode, TextType
 
 
 def markdown_to_html_node(markdown):

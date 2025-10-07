@@ -1,4 +1,4 @@
-from src.models.textnode import TextNode, TextType
+from ..models.textnode import TextNode, TextType
 from .extractmarkdownimages import extract_markdown_images
 
 
