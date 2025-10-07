@@ -1,5 +1,8 @@
 # Static Site Generator
 
+## Link
+[Click Here to See the Generated WebPage](https://sshaheen.github.io/static-site-generator)
+
 ## Description
 
 This is a project I worked on as part of the Boot.dev Backend Career Path
