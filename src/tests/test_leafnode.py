@@ -14,4 +14,4 @@ class TestLeafNode(unittest.TestCase):
 
     def test_leaf_to_html(self):
         node = LeafNode("br", "")
-        self.assertEqual(node.to_html(), "<br></br>")
+        self.assertEqual(node.to_html(), "<br>")
