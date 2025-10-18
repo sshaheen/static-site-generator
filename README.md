@@ -1,7 +1,7 @@
 # Static Site Generator
 
 ## Link
-[Click Here to See the Generated WebPage](https://sshaheen.github.io/static-site-generator)
+[Click Here to See the Generated Site](https://sshaheen.github.io/static-site-generator)
 
 ## Description
 
